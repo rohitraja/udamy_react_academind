@@ -14,7 +14,7 @@ let DUMY_EXPENSES =  [
     id: "e4",
     title: "Car Insurance",
     amount: 484.04,
-    date: new Date(2021, 4, 28),
+    date: new Date(2021, 3, 28),
   },
 ];
 function App() {
